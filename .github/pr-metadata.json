@@ -1,0 +1,7 @@
+{
+  "title": "Add comprehensive README to docs folder with OctoAcme process overview",
+  "body": "## Summary\nThis PR adds a comprehensive README to the `docs/` folder that provides an overview of OctoAcme's project management processes and serves as a central navigation hub for all process documentation.\n\n## What's included\n- **Process Overview**: A 3-4 paragraph summary covering:\n  - The five-phase project lifecycle (Initiation, Planning, Execution, Release, Retrospective)\n  - Core personas and their roles (Product Managers, Project Managers, Developers)\n  - Communication cadence and strategies\n  - Quality assurance and delivery practices\n\n- **Documentation Index**: Links to all process guide documents with brief descriptions\n- **Usage Guide**: Clear instructions for different audiences (new team members, project leads, delivery teams)\n- **Contribution Guidelines**: Reference to the issue template for proposing updates\n\n## Related to\nCloses #2\n\n## Files Changed\n- `docs/README.md` (new file)",
+  "head": "add-docs-readme",
+  "base": "main",
+  "reviewers": ["engineeredsoul"]
+}
